@@ -67,7 +67,7 @@
 "276","Authentication failed. NPS called Windows Trust Verification Services, but the binary file that calls EAP cannot be verified and is not trusted."
 "277","Authentication failed. NPS called Windows Trust Verification Services, but the binary file that calls EAP is not signed, or the signer certificate cannot be found."
 "278","Authentication failed. The certificate that was provided by the connecting user or computer is expired."
-"279",""Authentication failed. The certificate is not valid because the validity periods of certificates in the chain do not match. For example, the following End Certificate and Issuer Certificate validity periods do not match: End Certificate validity period: 2007-2010"," Issuer Certificate validity period: 2006-2008.""
+"279","Authentication failed. The certificate is not valid because the validity periods of certificates in the chain do not match. For example, the following End Certificate and Issuer Certificate validity periods do not match: End Certificate validity period: 2007-2010"," Issuer Certificate validity period: 2006-2008."
 "280","Authentication failed. The certificate is not valid and was not issued by a valid certification authority (CA)."
 "281","Authentication failed. The path length constraint in the certification chain has been exceeded. This constraint restricts the maximum number of CA certificates that can follow this certificate in the certificate chain."
 "282","Authentication failed. The certificate contains a critical extension that is unrecognized by NPS."
